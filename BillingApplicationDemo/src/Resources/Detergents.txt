@@ -1,0 +1,8 @@
+HoDeTi01 TidePowder-1kg 160
+HoDeTi02 TidePowder-4kg 500
+HoDeSu03 SurfPowder-1.5kg 160
+HoDeSu04 SurfPowder-6kg 700
+HoDeSu05 SurfExcelLiquid-1L 200
+HoDeAr06 ArielLiquid-1L 180
+HoDeCo07 ComfortAfterWash-430ml 120
+HoDeCo08 Comfort3RsSachet-18ml 3

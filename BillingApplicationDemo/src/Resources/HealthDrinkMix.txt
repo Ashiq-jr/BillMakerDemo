@@ -1,0 +1,5 @@
+SnHeBo01 Boost-500g 265
+SnHeHo02 Horlicks-500g 200
+SnHeBo03 Boost-18g 5
+SnHeHo04 Horlicks-18g 5
+SnHeBo05 Bournvita-500g 220

@@ -1,0 +1,10 @@
+PeToCo01 ColgateActiveSalt-200g 150
+PeToCo02 ColgateMaxFresh-300g 180
+PeToDa03 DaburRedToothPaste-175g 100
+PeToPe04 PepsodentToothPaste-175g 93
+PeToCo05 ColgateStrongTeeth-200g 115
+PeToCo06 ColgateMouthWash-250ml 150
+PeToLi07 ListerineMouthWash-500ml 300
+PeToVi08 ViccoToothBrush 20
+PeToCo09 ColgateToothBrush 35
+PeToSe10 SensodyneToothBrush 38

@@ -1,0 +1,4 @@
+SnTeCl01 ClassicTea-1kg 280 
+SnTeEl02 ElaichiTeaBags-100g 263
+SnTeGr03 GreenTea-200g 260
+SnTeMa04 MasalaTea-500g 250

@@ -1,0 +1,13 @@
+SnJuWa01 Water-1L 20
+SnJuWa02 Water-2L 25
+SnJuMa03 Maaza-600ml 36
+SnJuMa04 Maaza-2.25L 90
+SnJuSl05 Slice-600ml 70
+SnJuSl06 Slice-1.75L 70
+SnJuBo07 Bovonto-1.75L 90
+SnJuBo08 Bovonto-600ml 90
+SnJuCo09 CocoCola-2.25L 75
+SnJuCo10 CocoCola-600ml 35
+SnJuPe11 Pepsi-2.25L 75
+SnJuPe12 Pepsi-600ml 40
+SnJuMo13 MountainDew-600ml 35 

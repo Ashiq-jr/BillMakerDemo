@@ -1,0 +1,10 @@
+PeSoSh01 Shampoo3RsSachet-6ml 3
+PeSoSm02 Smooth&ShineShampoo-100ml 70
+PeSoAn03 AntiHairFallShampoo-100ml 130
+PeSoAn04 AntiDandruffShampoo-100ml 50
+PeSoSh05 ShikakaiShampoo-100ml 27
+PeSoSh06 ShikakaiPowder-200g 100
+PeSoCi07 CintholSoap-100g 35
+PeSoLi08 LifebuoySoap-125g 30
+PeSoHa09 HamamSoap-150g 60
+PeSoCh10 ChandrikaSoap-125g 45

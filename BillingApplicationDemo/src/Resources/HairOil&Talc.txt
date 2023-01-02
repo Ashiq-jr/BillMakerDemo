@@ -1,0 +1,8 @@
+PeHaCo01 CocunutHairOil-400ml 140
+PeHaAm02 AmlaHairOil-400ml 135
+PeHaNa03 NavaratnaHairOil-600ml 270
+PeHaAl04 AlmondHairOil-500ml 80
+PeHaOn05 OnionHairOil-170ml 270
+PeHaPo06 PondsMagicTalc-50g 126
+PeHaYa07 YardleyDeoTalc-250g 180
+PeHaMi08 MintCoolTalc-400g 150

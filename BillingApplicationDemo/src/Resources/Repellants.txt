@@ -1,0 +1,7 @@
+HoReDe01 Dettol-60ml 35
+HoReDe02 Dettol-550ml 215
+HoReHi03 HitSpray-400ml 175
+HoReGo04 GoodnightGoldMachine 200
+HoReAl05 AlloutVapouriser 100
+HoReOd06 OdonilFragranceBlocks 40
+HoReHa07 HandwashPouch-1.5L 150

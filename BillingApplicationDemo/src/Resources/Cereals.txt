@@ -1,0 +1,5 @@
+PaCeKe01 KellogsChocos-250g 150
+PaCeKe02 KwalityCereals-20g 10
+PaCeKe03 KellogsCornFlakes-500g 170
+PaCeQu04 QuakerOats-1kg 170
+PaCeMa05 MasalaOats-500g 180

@@ -1,0 +1,9 @@
+StDrCa01 Cashew-500g 360
+StDrAl02 Almonds-500g 350
+StDrPi03 Pisthachios-500g 510
+StDrWa04 Walnuts-500g 230
+StDrDa05 Dates-500g 150
+StDrBl06 BlackDates-400g 180
+StDrAn07 AnjeerFigs-200g 260
+StDrAP08 Apricots-200g 90
+StDrRa09 Raisin-200g 70

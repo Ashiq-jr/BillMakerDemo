@@ -1,0 +1,6 @@
+PaJaMi01 MixedFruitJam-90g 20
+PaJaMi02 MixedFruitJam-500g 105
+PaJaCl03 ClassicTomatoKetchup-800g 70
+PaJaHo04 HotSweetKetchup-1kg 160
+PaJaHo05 Honey-1kg 270
+PaJaHo06 Honey-500g 150

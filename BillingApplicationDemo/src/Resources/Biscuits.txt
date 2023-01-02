@@ -1,0 +1,7 @@
+SnBiMa01 MarieGoldBiscuit-70g 20
+SnBiRu02 Rusk-400g 50
+SnBiPa03 ParleG-40g 5
+SnBiDa04 DarkFantasy-75g 30
+SnBiHi05 HideAndSeek-200g 45
+SnBiFi06 FiftyFifty-80g 20
+SnBiGo07 GoodDay-120g 20

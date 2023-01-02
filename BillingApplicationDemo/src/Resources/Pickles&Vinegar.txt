@@ -1,0 +1,6 @@
+PaPiMa01 MangoPickle-500g 75
+PaPiLe02 LemonPickle-500g 70
+PaPiGa03 GarlicPickle-500g 100
+PaPiGi04 GingerPickle-500g 90
+PaPiMi05 MixedPickle-500g 80
+PaPiVi06 Vinegar-500ml 30

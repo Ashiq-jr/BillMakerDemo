@@ -1,0 +1,10 @@
+SnChBi01 BingoMadAngles-33g 10
+SnChLa02 LaysAmericancream-15g 5
+SnChLa03 LaysIndianMasala-15g 5
+SnChKu04 Kurkure-20g 5
+SnChDo05 Doritos-75g 40
+SnChBa06 BananaChips-80g 40
+SnChEl07 Elladai-250g 120
+SnChMu08 Murrukku-250g 135
+SnChRo09 RoastedCashew-18g 30
+SnChSa10 SaltedPeanuts-400g 70

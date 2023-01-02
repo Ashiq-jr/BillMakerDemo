@@ -1,0 +1,11 @@
+StOiSu01 SunflowerOil-1L 150
+StOiGr02 GroundNutOil-1L 190
+StOiRi03 RiceBranOil-1L 165
+StOiMu04 MustardOil-1L 180
+StOiCo05 CoconutOil-100ml 30
+StOiCo06 CocuntOil-1L 200
+StOiPa07 PalmOil-1L 105
+StOiSe08 SesameOil-200ml 90
+StOiSe09 SesameOil-1L 400
+StOiGh10 Ghee-200ml 70
+StOiGh11 Ghee-500ml 350

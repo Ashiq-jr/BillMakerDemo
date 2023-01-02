@@ -1,0 +1,5 @@
+St Staples
+Sn Snacks&Beverages
+Pa PackagedFood
+Pe PersonalCare
+Ho HouseholdCare

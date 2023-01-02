@@ -1,0 +1,4 @@
+PeShGi01 GilletteVectorRazor 70
+PeShGi02 GilletteShaveCream-60g 70
+PeShVe03 VectorCatridge(x6) 180
+PeShGi04 GillettePrestoRazor(x5) 80 

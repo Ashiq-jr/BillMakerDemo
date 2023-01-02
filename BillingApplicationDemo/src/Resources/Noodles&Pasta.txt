@@ -1,0 +1,7 @@
+PaNoMg01 MaggiNoodles-280g 55
+PaNoMg02 MaggiNoodles-70g 14
+PaNoYi03 YippeeNoodles-60g 14
+PaNoYi04 YippeeNoodles-480g 80
+PaNoYi05 YippeePasta-65g 25
+PaNoWh06 WheatPasta-400g 50
+PaNoVe07 Vermicelli-450g 50

@@ -1,0 +1,4 @@
+HoUtVi01 VimDishwashBar-200g 20
+HoUtVi02 VimDishwashLiquid-1L 170
+HoUtEx03 ExoDishwashBar-700g 80
+HoUtSc04 ScrubPad(x5) 75

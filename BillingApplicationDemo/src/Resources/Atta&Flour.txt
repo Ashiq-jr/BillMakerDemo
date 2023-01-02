@@ -1,0 +1,9 @@
+StAtAa01 AashirvaadAtta-1kg 42 
+StAtPh02 PhilsburyAtta-5kg 200
+StAtNa03 NagaMaida-500g 23
+StAtNa04 NagaBesan-500g 41
+StAtNa05 NagaRava-500g 26
+StAtNa06 NagaRiceFlour-500g 20
+StAtNa07 NagaCornFlour-200g 18
+StAtNa08 NagaRagiFlour-500g 23
+StAtWh09 wheatGrain-500g 40

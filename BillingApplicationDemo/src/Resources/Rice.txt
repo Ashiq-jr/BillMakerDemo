@@ -1,0 +1,6 @@
+StRiBa01 BasmatiRice-1kg 120
+StRiBa02 BasmatiRice-5kg 500
+StRiSa03 SambaRice-1kg 55
+StRiSe04 SeerakaSambaRice-1kg 70
+StRiPo05 PonniRice-1kg 35
+StRiTu06 TulasiRice-1kg 70

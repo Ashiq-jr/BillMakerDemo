@@ -1,0 +1,10 @@
+StDhTo01 ToorDhal-500g 67
+StDhUr02 UradDhal-500g 55
+StDhMo03 MoongDhal-500g 54
+StDhCh04 ChannaDhal-500g 37
+StDhRe05 RedMasoorDhal-500g 125
+StDhGr06 GreenPeas-500g 48
+StDhWh07 WhitePeas-500g 58
+StDhPe08 Peanut-500g 85
+StDhHo09 HorseGramDhal-500g 23
+StDhRa10 Rajma-500g 109

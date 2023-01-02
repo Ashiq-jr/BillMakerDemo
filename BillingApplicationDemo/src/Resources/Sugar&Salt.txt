@@ -1,0 +1,9 @@
+StSuIo01 IodizedSalt-1kg 25
+StSuIo02 IodizedCrystalSalt-1kg 15
+StSuPi03 PinkSalt-500g 30
+StSuSu04 Sugar-1kg 50
+StSuSu05 Sugar-500g 25
+StSuBr06 BrownSugar-500g 35
+StSuDi07 DiamondSugar-200g 15
+StSuBl08 BlockJaggery-500g 40
+StSuPo09 PowderJaggery-500g 54
