@@ -14,7 +14,7 @@ public class SuggestionList {
 
 	public void setSuggestionList() throws FileNotFoundException {
 		
-		String path = "C:\\Users\\ashiq\\eclipse-workspace\\BillingApplicationDemo\\src\\Resources\\Suggestions.txt";
+		String path = "C:\\Users\\ashiq\\git\\repository\\BillingApplicationDemo\\src\\Resources\\Suggestions.txt";
 		File file = new File(path);
 		
 		Scanner sc = new Scanner(file);

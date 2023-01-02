@@ -16,7 +16,7 @@ public class ProductList {
 	}
 	public void setProdList(String input) throws FileNotFoundException {
 		
-		String path = "C:\\Users\\ashiq\\eclipse-workspace\\BillingApplicationDemo\\src\\Resources\\";
+		String path = "C:\\Users\\ashiq\\git\\repository\\BillingApplicationDemo\\src\\Resources\\";
 		path += input + ".txt";
 		File file  = new File(path);
 		Scanner sc  = new Scanner(file);

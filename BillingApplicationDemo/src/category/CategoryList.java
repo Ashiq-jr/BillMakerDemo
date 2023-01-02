@@ -12,7 +12,7 @@ public class CategoryList {
 	}
 
 	public void setcList() throws FileNotFoundException {
-		String path = "C:\\Users\\ashiq\\eclipse-workspace\\BillingApplicationDemo\\src\\Resources\\Category.txt";
+		String path = "C:\\Users\\ashiq\\git\\repository\\BillingApplicationDemo\\src\\Resources\\Category.txt";
 		File file = new File(path);
 		Scanner sc = new Scanner(file);
 		while(sc.hasNextLine())
